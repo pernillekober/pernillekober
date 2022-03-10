@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pernillekober
 - 👀 I’m interested in machine learning, AI, data mining, process mining, cloud, app dev.
-- 🌱 I’m currently learning Java and web dev to create an automated conformance checking tool 
+- 🌱 I’m currently learning machine learning with python and analytics in R. 
 - 📫 How to reach me /in/pernilleopstad/
 
 <!---
