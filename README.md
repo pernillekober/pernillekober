@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pernillekober
 - 👀 I’m interested in machine learning, AI, data mining, process mining, cloud, app dev.
-- 🌱 I’m currently learning machine learning with python and analytics in R. 
+- 🌱 I’m currently learning more about applied ML and predictive analytics. 
 - 📫 How to reach me /in/pernilleopstad/
 
 <!---
